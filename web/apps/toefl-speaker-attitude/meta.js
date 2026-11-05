@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-speaker-attitude", "title": "Speaker Purpose and Attitude", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Hear short lines and decide why the speaker says them and how they feel.", "content": ["attitude.json"], "n": 68};
